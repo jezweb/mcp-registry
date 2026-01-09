@@ -14,7 +14,7 @@ about:
 source:
   project: https://github.com/dynatrace-oss/dynatrace-mcp
   branch: main
-  commit: e1b9fcf382515c51e2c60fc6442b97bebc641b44
+  commit: 1c192a0427bb348b0843779207f556052d6c28e7
 config:
   description: Configure the connection to Dynatrace
   secrets:
